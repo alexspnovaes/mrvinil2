@@ -1,0 +1,286 @@
+C:\Users\Alexandre Spreafico\Desktop\mrvil-master\DomainTests\bin\Debug\DomainTests.dll.config
+C:\Users\Alexandre Spreafico\Desktop\mrvil-master\DomainTests\bin\Debug\DomainTests.dll
+C:\Users\Alexandre Spreafico\Desktop\mrvil-master\DomainTests\bin\Debug\DomainTests.pdb
+C:\Users\Alexandre Spreafico\Desktop\mrvil-master\DomainTests\bin\Debug\Domain.dll
+C:\Users\Alexandre Spreafico\Desktop\mrvil-master\DomainTests\bin\Debug\FluentValidator.dll
+C:\Users\Alexandre Spreafico\Desktop\mrvil-master\DomainTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Alexandre Spreafico\Desktop\mrvil-master\DomainTests\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Alexandre Spreafico\Desktop\mrvil-master\DomainTests\bin\Debug\Shared.dll
+C:\Users\Alexandre Spreafico\Desktop\mrvil-master\DomainTests\bin\Debug\System.AppContext.dll
+C:\Users\Alexandre Spreafico\Desktop\mrvil-master\DomainTests\bin\Debug\System.Console.dll
+C:\Users\Alexandre Spreafico\Desktop\mrvil-master\DomainTests\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alexandre Spreafico\Desktop\mrvil-master\DomainTests\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Alexandre Spreafico\Desktop\mrvil-master\DomainTests\bin\Debug\System.IO.Compression.dll
+C:\Users\Alexandre Spreafico\Desktop\mrvil-master\DomainTests\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Alexandre Spreafico\Desktop\mrvil-master\DomainTests\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Alexandre Spreafico\Desktop\mrvil-master\DomainTests\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Alexandre Spreafico\Desktop\mrvil-master\DomainTests\bin\Debug\System.Net.Http.dll
+C:\Users\Alexandre Spreafico\Desktop\mrvil-master\DomainTests\bin\Debug\System.Net.Sockets.dll
+C:\Users\Alexandre Spreafico\Desktop\mrvil-master\DomainTests\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Alexandre Spreafico\Desktop\mrvil-master\DomainTests\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alexandre Spreafico\Desktop\mrvil-master\DomainTests\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Alexandre Spreafico\Desktop\mrvil-master\DomainTests\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Alexandre Spreafico\Desktop\mrvil-master\DomainTests\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alexandre Spreafico\Desktop\mrvil-master\DomainTests\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Alexandre Spreafico\Desktop\mrvil-master\DomainTests\bin\Debug\Domain.pdb
+C:\Users\Alexandre Spreafico\Desktop\mrvil-master\DomainTests\bin\Debug\Domain.dll.config
+C:\Users\Alexandre Spreafico\Desktop\mrvil-master\DomainTests\bin\Debug\Shared.pdb
+C:\Users\Alexandre Spreafico\Desktop\mrvil-master\DomainTests\bin\Debug\Shared.dll.config
+C:\Users\Alexandre Spreafico\Desktop\mrvil-master\DomainTests\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Alexandre Spreafico\Desktop\mrvil-master\DomainTests\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Alexandre Spreafico\Desktop\mrvil-master\DomainTests\obj\Debug\DomainTests.csprojAssemblyReference.cache
+C:\Users\Alexandre Spreafico\Desktop\mrvil-master\DomainTests\obj\Debug\DomainTests.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre Spreafico\Desktop\mrvil-master\DomainTests\obj\Debug\DomainTests.csproj.CopyComplete
+C:\Users\Alexandre Spreafico\Desktop\mrvil-master\DomainTests\obj\Debug\DomainTests.dll
+C:\Users\Alexandre Spreafico\Desktop\mrvil-master\DomainTests\obj\Debug\DomainTests.pdb
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\DomainTests.dll.config
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\DomainTests.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\DomainTests.pdb
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\Domain.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\FluentValidator.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\Shared.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.AppContext.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Console.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Globalization.Calendars.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.IO.Compression.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.IO.FileSystem.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Net.Http.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Net.Sockets.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Xml.ReaderWriter.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\FluentValidation.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\Domain.pdb
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\Domain.dll.config
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\Shared.pdb
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\Shared.dll.config
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\FluentValidation.xml
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\dev\mrvinilAPI\DomainTests\obj\Debug\DomainTests.csprojAssemblyReference.cache
+C:\dev\mrvinilAPI\DomainTests\obj\Debug\DomainTests.csproj.CoreCompileInputs.cache
+C:\dev\mrvinilAPI\DomainTests\obj\Debug\DomainTests.csproj.CopyComplete
+C:\dev\mrvinilAPI\DomainTests\obj\Debug\DomainTests.dll
+C:\dev\mrvinilAPI\DomainTests\obj\Debug\DomainTests.pdb
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\netstandard.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Collections.Concurrent.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Collections.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Collections.NonGeneric.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Collections.Specialized.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.ComponentModel.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.ComponentModel.Primitives.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Data.Common.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Diagnostics.Contracts.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Diagnostics.Debug.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Diagnostics.Process.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Diagnostics.Tools.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Diagnostics.Tracing.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Drawing.Primitives.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Dynamic.Runtime.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Globalization.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Globalization.Extensions.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.IO.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.IO.IsolatedStorage.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.IO.Pipes.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Linq.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Linq.Expressions.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Linq.Parallel.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Linq.Queryable.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Net.NameResolution.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Net.NetworkInformation.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Net.Ping.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Net.Primitives.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Net.Requests.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Net.Security.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Net.WebSockets.Client.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Net.WebSockets.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.ObjectModel.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Reflection.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Reflection.Extensions.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Reflection.Primitives.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Resources.Reader.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Resources.ResourceManager.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Resources.Writer.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Runtime.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Runtime.Extensions.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Runtime.Handles.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Runtime.InteropServices.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Runtime.Numerics.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Security.Claims.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Security.Principal.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Security.SecureString.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Text.Encoding.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Text.RegularExpressions.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Threading.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Threading.Overlapped.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Threading.Tasks.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Threading.Thread.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Threading.ThreadPool.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Threading.Timer.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.ValueTuple.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Xml.XDocument.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Xml.XmlDocument.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Xml.XmlSerializer.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Xml.XPath.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\Castle.Core.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\Moq.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\Castle.Core.xml
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\Moq.pdb
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\Moq.xml
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\dev\mrvinilAPI\DomainTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\DomainTests.dll.config
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\DomainTests.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\DomainTests.pdb
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\netstandard.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.AppContext.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Collections.Concurrent.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Collections.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Collections.NonGeneric.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Collections.Specialized.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.ComponentModel.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.ComponentModel.Primitives.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Console.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Data.Common.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Diagnostics.Contracts.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Diagnostics.Debug.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Diagnostics.Process.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Diagnostics.Tools.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Diagnostics.Tracing.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Drawing.Primitives.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Dynamic.Runtime.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Globalization.Calendars.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Globalization.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Globalization.Extensions.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.IO.Compression.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.IO.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.IO.FileSystem.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.IO.IsolatedStorage.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.IO.Pipes.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Linq.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Linq.Expressions.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Linq.Parallel.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Linq.Queryable.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Net.Http.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Net.NameResolution.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Net.NetworkInformation.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Net.Ping.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Net.Primitives.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Net.Requests.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Net.Security.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Net.Sockets.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Net.WebSockets.Client.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Net.WebSockets.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.ObjectModel.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Reflection.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Reflection.Extensions.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Reflection.Primitives.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Resources.Reader.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Resources.ResourceManager.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Resources.Writer.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Runtime.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Runtime.Extensions.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Runtime.Handles.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Runtime.InteropServices.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Runtime.Numerics.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Security.Claims.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Security.Principal.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Security.SecureString.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Text.Encoding.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Text.RegularExpressions.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Threading.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Threading.Overlapped.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Threading.Tasks.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Threading.Thread.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Threading.ThreadPool.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Threading.Timer.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.ValueTuple.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Xml.ReaderWriter.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Xml.XDocument.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Xml.XmlDocument.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Xml.XmlSerializer.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Xml.XPath.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\Castle.Core.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\Domain.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\FluentValidator.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\Moq.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\Shared.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\FluentValidation.dll
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\Domain.pdb
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\Domain.dll.config
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\Shared.pdb
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\Shared.dll.config
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\Castle.Core.xml
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\Moq.pdb
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\Moq.xml
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\FluentValidation.xml
+C:\projetos\mrvinilAPI\DomainTests\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\projetos\mrvinilAPI\DomainTests\obj\Debug\DomainTests.csprojAssemblyReference.cache
+C:\projetos\mrvinilAPI\DomainTests\obj\Debug\DomainTests.csproj.CopyComplete
+C:\projetos\mrvinilAPI\DomainTests\obj\Debug\DomainTests.dll
+C:\projetos\mrvinilAPI\DomainTests\obj\Debug\DomainTests.pdb
